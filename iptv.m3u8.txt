@@ -1,0 +1,119 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BBC Top Gear France" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c4/TopGearFranceLogo.jpg" group-title="France",BBC Top Gear France (1080p)
+https://amg00793-amg00793c45-rakuten-fr-5539.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ClubbingTV.us@France" tvg-logo="https://i.imgur.com/MyiA92q.png" group-title="France",Clubbing TV France
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+
+#EXTINF:-1 tvg-name="France2.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="France",France 2 (1080p)
+http://69.64.57.208/france2/mono.m3u8
+
+#EXTINF:-1 tvg-name="France2.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png" group-title="France",France 2 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+
+#EXTINF:-1 tvg-name="France3.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png" group-title="France",France 3 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+
+#EXTINF:-1 tvg-name="France4.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png" group-title="France",France 4 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
+
+#EXTINF:-1 tvg-name="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",France 5 (1080p)
+http://69.64.57.208/france5/mono.m3u8
+
+#EXTINF:-1 tvg-name="France5.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png" group-title="France",France 5 HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
+
+#EXTINF:-1 tvg-name="France24.fr@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="France",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France24.fr@Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="Arab",France 24 Arabic (1080p)
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-name="FranceInter.fr@SD" tvg-logo="https://i.imgur.com/MgBeU52.png" group-title="France",France Inter
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinter.m3u8
+
+#EXTINF:-1 tvg-name="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="France",Franceinfo
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/franceinfotv.m3u
+
+#EXTINF:-1 tvg-name="LeFigaroTVIledeFrance.fr@SD" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="France",Le Figaro IDF (1080p)
+https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+
+#EXTINF:-1 tvg-name="MTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="France",MTV (1080p)
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+
+#EXTINF:-1 tvg-name="MyTime Movie Network" tvg-logo="" group-title="France",MyTime Movie Network France (1080p)
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mytimefrance" tvg-logo="" group-title="France",Mytimefrance (1080p)
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nature Time" tvg-logo="" group-title="France",Nature Time France (1080p)
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Actionn" tvg-logo="https://i.imgur.com/tDapGal.png" group-title="France",Pluto TV Action
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055171-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c3b67254-4628-4f0e-8164-5a50e8969a42
+
+#EXTINF:-1 tvg-name="PlutoTVAnimaux.us@France" tvg-logo="https://i.imgur.com/jxYlLsd.png" group-title="France",Pluto TV Animaux
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=754cd30f-6a34-42d3-9e06-63128a8e07e3
+
+#EXTINF:-1 tvg-nom="PlutoTVCineRetro.us@France" tvg-logo="https://i.imgur.com/y27HHe1.png" group-title="France",Pluto TV Ciné Rétro
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055170-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=16087aae-45a5-4664-9dd5-7ba7c4fa78cf
+
+#EXTINF:-1 tvg-name="PlutoTVComedie.us@France" tvg-logo="https://i.imgur.com/1e4IFrS.png" group-title="France",Pluto TV Comédie
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eeb5026-2fd1-4f02-8b21-df9f69932d00
+
+#EXTINF:-1 tvg-name="PlutoTVCuisine.us@France" tvg-logo="https://i.imgur.com/OuAi5ef.png" group-title="France",Pluto TV Cuisine
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055175-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d65e7814-007f-4b37-ac42-189f2577bbff
+
+#EXTINF:-1 tvg-name="PlutoTVHistoire.us@France" tvg-logo="https://i.imgur.com/JE5xcCV.png" group-title="France",Pluto TV Histoire
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd3-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7663e8d-062c-4293-9b93-a2bd07b5cb20
+
+#EXTINF:-1 tvg-name="PlutoTVInside.us@France" tvg-logo="https://i.imgur.com/Tb4GNml.png" group-title="France",Pluto TV Inside
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055174-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=487dd86d-4b70-41e0-bab7-33de0eda4283
+
+#EXTINF:-1 tvg-name="PlutoTVInvestigation.us@France" tvg-logo="https://i.imgur.com/8LdACfR.png" group-title="France",Pluto TV Investigation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057885-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6c08e34-78b6-42cf-bca2-5017c1566c3c
+
+#EXTINF:-1 tvg-name="PlutoTVJunior.us@France" tvg-logo="https://i.imgur.com/7sApMZS.png" group-title="France",Pluto TV Junior
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc43-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39cb1f02-1907-4cc7-8224-1bd6adfb09bc
+
+#EXTINF:-1 tvg-name="PlutoTVKidsAnimation.us@France" tvg-logo="https://i.imgur.com/l1d9j4d.png" group-title="France",Pluto TV Kids Animation
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc42-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1894d5d0-76ab-4321-9f74-30abda806f6e
+
+#EXTINF:-1 tvg-name="PlutoTVKidsGaming.us@France" tvg-logo="https://i.imgur.com/cqYqBF3.png" group-title="france",Pluto TV Kids Gaming
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e6ddc7fcd580007d1eb5f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c9-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e5e05ce9-206e-4e18-bc1a-aeaae6cc75d3
+
+#EXTINF:-1 tvg-name="PlutoTVKidsSeries.us@France" tvg-logo="https://i.imgur.com/pvYpPvs.png" group-title="France",Pluto TV Kids Séries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e04dc41-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b78d402-2a11-47c6-a674-a4b8f5098e41
+
+#EXTINF:-1 tvg-name="PlutoTVParanormal.us@France" tvg-logo="https://i.imgur.com/ApN6nfw.png" group-title="France",Pluto TV Paranormal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057882-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71e28713-4d07-4b50-8bdf-ede6b2fac167
+
+#EXTINF:-1 tvg-name="PlutoTVSciFi.us@France" tvg-logo="https://i.imgur.com/vSzd5m7.png" group-title="france",Pluto TV Sci-Fi
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c34592c911890007f29a73/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b2680c6-291b-492d-a7cf-589b55d330d2
+
+#EXTINF:-1 tvg-name="Rakuten TV Top Films" tvg-logo="" group-title="France",Rakuten TV Top Films France (720p)
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8
+
+#EXTINF:-1 tvg-name="TheAsylum.us@France" tvg-logo="https://i.imgur.com/dx9tt1B.png" group-title="France",The Asylum
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e052a62-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1739a4c5-d7e2-41f4-aa40-91bb650267c5
+
+#EXTINF:-1 tvg-name="TortuesNinjaTV.us@France" tvg-logo="https://i.imgur.com/d2ACbkV.png" group-title="France",Tortues Ninja TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecc1b37867f00071469e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050351-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8626ec32-5f10-4aef-bfdb-f5495f6d4ff1
+
+#EXTINF:-1 tvg-name="Travelxp France" tvg-logo="" group-title="France",Travelxp France (720p)
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="WalkerTexasRanger.us@France" tvg-logo="https://i.imgur.com/0N7EhuD.png" group-title="France",Walker Texas Ranger
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53334da2-2bf6-4492-9d72-20248eaff31c
+
+#EXTINF:-1 tvg-name="FIFAPlus.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/700px-FIFA%2B_(2025).svg.png" group-title="France",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France24.fr@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/512px-France_24_logo_%282013%29.svg.png" group-title="France",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Motorvision.tv" tvg-logo="" group-title="france",Motorvision.tv (French)
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+
