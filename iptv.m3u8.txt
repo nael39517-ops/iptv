@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="INFO",France 24
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="INFO",France 24 Arabic
+https://live.france24.com/hls/live/2037183-b/F24_AR_HI_HLS/master.m3u8
+
+#EXTINF:-1 group-title="INFO",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(tv5monde)/index.m3u8
+
+#EXTINF:-1 group-title="INFO",Africanews
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 group-title="INFO",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 group-title="INFO",Al Arabiya
+https://alarabiya-live.alarabiya.net/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ENFANTS",Nickelodeon
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+
+#EXTINF:-1 group-title="ENFANTS",Nickelodeon Junior
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+
+#EXTINF:-1 group-title="ENFANTS",Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8b1/master.m3u8
+
+#EXTINF:-1 group-title="ENFANTS",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8b2/master.m3u8
+
+#EXTINF:-1 group-title="ENFANTS",Pluto TV Teens
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8b4/master.m3u8
+
+
+#EXTINF:-1 group-title="SPORT",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+
+#EXTINF:-1 group-title="SPORT",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 group-title="SPORT",Fuel TV
+https://fueltv-fueltv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORT",Motorvision
+https://motorvision-tv-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Pluto TV Cinéma
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8a3/master.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8a5/master.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Pluto TV Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8a6/master.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Pluto TV Thriller
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8a7/master.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Pluto TV Romance
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1b9521b2a0007c0a8a8/master.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Runtime Cinéma
+https://runtime-cinema-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Runtime Action
+https://runtime-action-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Runtime Thriller
+https://runtime-thriller-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Rakuten TV Action
+https://rakuten-action-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Rakuten TV Comédie
+https://rakuten-comedie-1-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="FILMS & SERIES",Rakuten TV Drame
+https://rakuten-drame-1-fr.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ARABE",MBC 1
+https://mbc1-live.akamaized.net/out/v1/mbc1.m3u8
+
+#EXTINF:-1 group-title="ARABE",MBC 3
+https://mbc3-live.akamaized.net/out/v1/mbc3.m3u8
+
+#EXTINF:-1 group-title="ARABE",Rotana Cinema
+https://rotana-cinema-live.akamaized.net/out/v1/rotana.m3u8
+
